@@ -1,4 +1,8 @@
 { "name": "Rails 3.1", "sections": [ 
-  {"section":"intro"},
-  {"section":"rails30"}
+  {"section":"01_intro"},
+  {"section":"02_rails30"},
+  {"section":"03_rails31"},
+  {"section":"04_other_enhancements"},
+  {"section":"05_notes"},
+  {"section":"06_end"}
 ]}
